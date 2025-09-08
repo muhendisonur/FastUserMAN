@@ -1,4 +1,4 @@
-# UserAPI
+# FastUserMAN
 
 A simple REST API for user management built with FastAPI and SQLAlchemy.
 
